@@ -1,0 +1,10 @@
+Websites
+
+Website name: mywebsitenamehere
+Website URL: https://example.com/
+Login name: 
+Login: my@email.com
+Password: Password!
+Comment: My note here
+
+---
